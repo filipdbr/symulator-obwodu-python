@@ -29,4 +29,7 @@ Projekt realizowany w ramach przedmiotu Metody Numeryczne. Aplikacja symuluje za
      ```bash
     pip install -r requirements.txt
     ```
-4. Gotowe
+4. Uruchom główny skryp
+    ```bash
+    python main.py
+   ```
