@@ -2,7 +2,7 @@ import numpy as np
 
 """
 Moduł zawierające funkcje interpolacyjne oraz ekstrapolacyjne:
-a) interpolacja wielomianowa Legrange'a,
+a) interpolacja wielomianem Legrange'a,
 b) interpolacja funkcjami sklejanymi trzeciego stopnia,
 c) aproksymacja wielomianowa dowolnego stopnia
 """

@@ -4,7 +4,6 @@ from kod_zrodlowy.metody_numeryczne import metoda_bisekcji, metoda_siecznych, me
 from kod_zrodlowy.czesc_4 import funkcja_celu, oblicz_moc_dla_f
 
 # TODO: zrobić jawny import
-# TODO: wyrzucić funkcje pomocnicze do innego modułu
 
 def wykonaj_czesc_4():
 
