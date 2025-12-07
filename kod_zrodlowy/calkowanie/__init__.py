@@ -1,0 +1,1 @@
+from .funkcje_calkowania import metoda_parabol, metoda_prostokatow

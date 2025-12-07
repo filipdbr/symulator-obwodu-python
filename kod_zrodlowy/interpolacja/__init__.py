@@ -1,0 +1,1 @@
+from .funkcje_interpolacyjne import aproksymacja_wielomianowa, interpolacja_funkcje_sklejane, lagrange

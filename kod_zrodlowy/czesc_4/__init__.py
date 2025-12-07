@@ -1,0 +1,1 @@
+from .funkcje_dla_cz_4 import funkcja_celu, oblicz_moc_dla_f
