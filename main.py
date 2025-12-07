@@ -5,7 +5,7 @@ from kod_zrodlowy.czesc_2.projekt_czesc_2 import wykonaj_czesc_2
 from kod_zrodlowy.czesc_3.projekt_czesc_3 import wykonaj_czesc_3
 from kod_zrodlowy.czesc_4.projekt_czesc_4 import wykonaj_czesc_4
 
-# dodajemy katalogi z częściami do ścieżki, aby można było importować
+# dodaję katalogi z częściami do ścieżki dla łatwego importu
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), 'czesc_1'))
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), 'czesc_2'))
 sys.path.insert(0, os.path.join(os.path.dirname(__file__), 'czesc_3'))
